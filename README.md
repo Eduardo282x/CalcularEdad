@@ -1,4 +1,3 @@
-﻿# CalcularEdad
 # CalcularEdad
 Pagina web para calcular edad hecha con HTML, CSS y JavaScript
 
